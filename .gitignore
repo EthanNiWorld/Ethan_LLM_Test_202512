@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+venv/
+*oss_upload.py
